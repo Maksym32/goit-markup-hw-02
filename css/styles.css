@@ -105,6 +105,9 @@ line-height: 1.19;
 }
 /* team */
 
+.team-section {
+background-color: var(--secondary-background-color);
+}
 .team-title {
   font-weight: 500;
   font-size: 16px;
@@ -125,6 +128,10 @@ line-height: 1.19;
   font-style: normal;
   font-size: 14px;
   line-height: 1.71;
+}
+.addres-link:hover,
+.addres-link:focus {
+  color: var(--accent-color);
 }
 .addres-link.opacity {
   opacity: 0.6;
