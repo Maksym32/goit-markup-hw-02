@@ -26,11 +26,11 @@ li {
 }
 
 .logo {
-color: var(--logo-color);
-font-family: railway;
-font-weight: 700;
-font-size: 26px;
-line-height: 1.19;
+  color: var(--logo-color);
+  font-family: railway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
 }
 .logo-blue {
   color: var(--accent-color);
@@ -85,7 +85,6 @@ line-height: 1.19;
 /* section */
 
 .section-title {
-  color: var(--primary-text-color);
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -150,13 +149,13 @@ background-color: var(--secondary-background-color);
   cursor: pointer;
 }
 .work-list-title {
-  color: var(--primary-text-color);
-font-weight: 700;
-font-size: 18px;
-line-height: 2;
+
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
 }
 .work-list-text {
-color: var(--secondary-text-color);
-font-size: 16px;
-line-height: 1.87;
+  color: var(--secondary-text-color);
+  font-size: 16px;
+  line-height: 1.87;
 }
