@@ -149,7 +149,7 @@ background-color: var(--secondary-background-color);
   cursor: pointer;
 }
 .work-list-title {
-
+  color: var(--primary-text-color);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
